@@ -7,7 +7,6 @@
 - **官网链接**：[搬瓦工官网](https://bandwagonhost.com/aff.php?aff=74585)（注意：国内无法直接访问）
 - **中国镜像站**：[搬瓦工官方中国镜像站](https://bwh81.net/aff.php?aff=74585)（可放心访问）
 - **所有方案页面**：[查看搬瓦工所有方案](https://bwh81.net/aff.php?aff=74585&gid=1)（包括所有当前可用的VPS方案）
-![image](https://github.com/shinichiofuji85/banwagongyouhuima/assets/157685820/bf025a4a-0f27-48c2-aa7f-ccf227df809a)
 
 
 ## 搬瓦工优惠码
