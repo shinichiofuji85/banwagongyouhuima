@@ -26,7 +26,7 @@
 - **价格**：$35.42/年
 - **优惠码**：`BWHCCNCXVV`
 
-- **购买链接**：[点击此处购买Basic VPS – DC9 Plan](https://bwh81.net/aff.php?aff=74585&pid=145)（请替换“#”为实际的购买链接）
+- **购买链接**：[点击此处购买Basic VPS – DC9 Plan](https://bwh81.net/aff.php?aff=74585&pid=145)
 
 
 ## 搬瓦工套餐配置价格
